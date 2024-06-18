@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\gasdemo\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisc.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\gasdemo\\intermediate\\build\\win64\\x64\\gasdemoeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\gasdemo\\plugins\\vrm4u\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrm4umisc\\definitions.vrm4umisc.h",
+            "d:\\unreal projects\\gasdemo\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisc.h",
+            "d:\\unreal projects\\gasdemo\\plugins\\vrm4u\\source\\vrm4umisc\\private\\vrm4umisclog.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
